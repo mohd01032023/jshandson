@@ -1,1 +1,3 @@
-const remainder = 11%3;
+// Only change code below this line
+const myName = "shuaib";
+const myStr = "My name is " + myName + "and I am well!";
